@@ -3,7 +3,7 @@
 
 ---
 user: yhcheng0
-image: ![gitimage](https://user-images.githubusercontent.com/80042796/115352851-65f66d80-a1ea-11eb-9f51-f6b0e9532b47.png)
+image:https://github.com/yhcheng0.png?size=50
 name: Yee-han CHENG
 ---
 I have worked on almost everything in this site!
